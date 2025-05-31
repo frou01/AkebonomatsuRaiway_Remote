@@ -1,0 +1,15 @@
+<color=white><size=120>Welcome to the Akebonomatsu Railway Akebonomatsu Line!
+<size=80>　This world is a railway line simulator with a 21 km main line. You can role-play as an engineer, assistant engineer, conductor and station attendant.
+
+<size=80>　It takes 5-15 seconds for the initial synchronisation to finish. Trains may not be visible or move immediately after entering, but this is a specification.
+<color=#FF6600>　If you are using the Open beta version of VRChat, the problem may spread to others. Please note that.<color=white>
+
+<size=80>　This world is not intended for the following items.<size=70>
+　・Avatars with colliders (e.g. capable of flight and fast movement).
+　・VRCDrone
+　・VRCPrint
+<size=80>
+　Please refrain from operating in Public instances in this world under your own rules.
+<size=80><color=#FF6600>　If someone explains the rules to you in a Public instance, they are not authorised by our railway (the author).<color=white>
+
+<size=80>　If you want to conduct role-plays (driving sessions) in groups, use Private instances or the Group function.
