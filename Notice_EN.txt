@@ -4,12 +4,13 @@
 <size=80>　It takes 5-15 seconds for the initial synchronisation to finish. Trains may not be visible or move immediately after entering, but this is a specification.
 <color=#FF6600>　If you are using the Open beta version of VRChat, the problem may spread to others. Please note that.<color=white>
 
-<size=80>　This world is not intended for the following items.<size=70>
+<color=#FF4488><size=120>・Do Not<size=60>
+	・Host events in public instances that need special rules.
+		※For example, when visitors must be guided or when equipment should not be freely handled.
+		※Please use Private instances or the Group function for these events.
+	・Use this world in a way that could be mistaken for an official endorsement of this world.
+
+<color=white><size=80>　This world is not intended for the following items.<size=70>
 　・Avatars with colliders (e.g. capable of flight and fast movement).
 　・VRCDrone
 　・VRCPrint
-<size=80>
-　Please refrain from operating in Public instances in this world under your own rules.
-<size=80><color=#FF6600>　If someone explains the rules to you in a Public instance, they are not authorised by our railway (the author).<color=white>
-
-<size=80>　If you want to conduct role-plays (driving sessions) in groups, use Private instances or the Group function. Additionally, please refrain from behaviour that could be mistaken for being endorsed by this world.
