@@ -1,0 +1,51 @@
+<color=white><size=90>クレジット
+<size=60>依頼製作物・提供
+<size=40>
+駅舎、ホーム、給水塔、給水柱、転車台、機関庫、切符券面、改札、鉄橋　製作：	DONAMO-163
+構内図、タブレットキャリア、出発指示合図機、出発指示ボタン、黒板テクスチャ：		mikeneko0211
+入換標識（曙松）：xxxyyyzzz999(Last Stand)
+改札鋏音源：	mohukig
+
+<size=60>使用頒布・配布物
+<size=40>軌道、分岐器、転轍機、信号てこ、てこ小屋、標識、踏切：			稲荷電気鉄道
+リターナブル瓶なコーラのモデル：くらげのBooth
+瓶入り炭酸飲料：	はうすみかん直売所
+SkyBox：		Allsky
+Terrain Toolkit：	heparo
+蒸気饅頭、釜駅弁、ローポリの樹木、電信柱：どなものおき
+Particle Pack：	Unity Technologies
+ParticlePrefab：	yakimannzyuu
+北海道のＳＬ 最後の夏　( 録音 )：mars2015
+焚き火：	On-Jin ～音人～
+商用利用フリーの100円ループ環境音 VOL.2 森林環境音(録音地:埼玉県狭山丘陵)：新井健史&進行豹 
+国鉄っぽいフォント：	旅と鉄の盲腸 ＞ 落としもの：	フォント
+"Shouwa" 80's Japanese town model set - vol.1 House：	FUNSET
+"Shouwa" 80's Japanese town model set - vol.2 Foundation：	FUNSET
+ベンチ/BenchSeries_Bench01：	アジャリ雑貨店
+Lux Water：	forst
+Magic Light Probes：Eugene B
+MeshBaker：	Ian Deane
+NatureStarterKit2：Shapes
+MFStandard：	ngt5479
+旧型客車、街中にある鉄道系小物、二軸貨車：nusa都市研究所
+プラベンチ：	埴輪工房
+ふかふかお布団：	叶珈琲
+モダンライト：	店主の販売所
+手旗：		小田管男
+米袋：		胡椒少々塩ショップ
+ちいさな駅：	TRAZ  BOOTH STORE
+事務机セット：	TsubokuLab Store
+鉄道用信号機、踏切警報機：Last Stand
+トンネル+コンクリート橋セット01、HousePackA：Rekareya Works
+3D地形モデル 田んぼ：	ckanbac
+Sunshine Flare：		Starlit Wanderings
+UdonSharp、USharpVideo：	MerlinVR
+QvPen：ureishi
+
+<size=60>音源収録場所
+<size=40>碓氷峠鉄道文化むら内
+JR九州豊肥本線沿線
+大井川鉄道大井川本線車内
+津山まなびの鉄道館
+信越線車内
+北陸鉄道石川線新西金沢駅
